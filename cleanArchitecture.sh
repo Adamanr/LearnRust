@@ -3,6 +3,7 @@ mkdir "cmd/app"
 touch "cmd/app/main.go"
 
 mkdir "internal"
+mkdir "internal/adapters"
 mkdir "internal/adapters/db"
 mkdir "internal/adapters/db/mongodb"
 mkdir "internal/adapters/db/postgres"
