@@ -29,3 +29,4 @@ touch "pkg/client/mongodb/client.go"
 mkdir "pkg/client/postgres"
 touch "pkg/client/postgres/client.go"
 
+echo "Architecture created"
